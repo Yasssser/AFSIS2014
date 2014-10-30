@@ -1,5 +1,5 @@
 #Default Directory of Data
-setwd('D:\\Comps\\AFSIS')
+setwd('Data\\')
 
 #Loading Required Libraries
 library(RWeka)#for PrincipalComponentAnalysis filter
