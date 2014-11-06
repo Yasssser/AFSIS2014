@@ -12,7 +12,7 @@ library(monmlp)#training multilayer perceptron
 library(e1071)#training SVM
 library(prospectr)#preprocessing 
 library(kernlab)# training gaussian process
-library(sqldf)#used for cross validation split
+library(sqldf)#used for sampling dataset and cross validation split
 
 RMSE=function(real,pred)
 {
